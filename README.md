@@ -26,8 +26,6 @@ Common problems include:
 * expensive and slow editorial workflows
 * difficulty comparing multiple translation or editing versions
 
-My motivation comes from real work with books, authors, translation, editing, and publishing. The goal is to design an AI assistant that helps human editors and translators work faster without replacing their judgment.
-
 This topic is important because books carry culture, memory, and identity. Poor translation can damage both the author and the reader’s experience.
 
 ## How is it used?
