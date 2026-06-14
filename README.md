@@ -11,7 +11,11 @@ This repository is an educational concept submission for the Building AI course.
 
 ## Background
 
-Literary translation and professional editing are difficult because they require more than word-for-word accuracy. A good literary translation must preserve meaning, voice, atmosphere, cultural references, emotional rhythm, and stylistic consistency across an entire book.
+My personal motivation comes from my work in publishing between 2020 and 2023. During that period, I saw first-hand how difficult it is to maintain high standards in book translation, editing, and proofreading. The main problems were not only speed, but also cost, accuracy, editorial consistency, and the uneven quality of human or machine-assisted translation workflows.
+
+In many publishing projects, a translated book may pass through several hands: translator, editor, proofreader, formatter, and publisher. Without a consistent quality framework, the final result can suffer from changes in tone, inconsistent terminology, weak proofreading, loss of literary rhythm, and uneven editorial decisions across chapters.
+
+Current generative AI tools can produce fluent text, but they do not automatically guarantee literary fidelity, chapter-level consistency, publisher-grade editing standards, or preservation of the author’s voice. This project is motivated by the need for an AI assistant that supports professional editorial judgment while keeping quality, consistency, and human responsibility at the centre of the process.
 
 Common problems include:
 
